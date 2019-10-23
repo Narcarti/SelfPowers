@@ -1,0 +1,10 @@
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\bin\Debug\SelfPowers.exe.config
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\bin\Debug\SelfPowers.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\bin\Debug\SelfPowers.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\bin\Debug\BigMath.dll
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\bin\Debug\BigMath.xml
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\obj\Debug\SelfPowers.csprojAssemblyReference.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\obj\Debug\SelfPowers.csproj.CoreCompileInputs.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\obj\Debug\SelfPowers.csproj.CopyComplete
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\obj\Debug\SelfPowers.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\SelfPowers\SelfPowers\obj\Debug\SelfPowers.pdb
